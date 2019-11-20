@@ -13,7 +13,7 @@ module FormsLab
       
     end
     
-    post '/pirate' do 
+    post '/pirates' do 
       
     end
 
