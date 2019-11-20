@@ -5,7 +5,11 @@ module FormsLab
 
     # code other routes/actions here
     
-    get '/'
+    get '/' do 
+      
+    end
+    
+    post '/pirate' do 
       
     end
 
